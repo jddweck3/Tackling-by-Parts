@@ -1,5 +1,5 @@
 #FUMBLE OPTIMIZATION METRICS/COMBINING EVERYTHING
-#FIGURES 6, 7, 8
+#FIGURES 6, 8, 9
 
 library(tidyverse)
 library(xgboost)
